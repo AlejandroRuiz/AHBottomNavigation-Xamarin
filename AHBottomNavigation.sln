@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AHBottomNavigation", "AHBottomNavigation\AHBottomNavigation.csproj", "{21AC0D01-6900-45FB-9195-925544EDFDA6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AHBottomNavigation.UITests", "AHBottomNavigation.UITests\AHBottomNavigation.UITests.csproj", "{B22DE09B-EA55-49E6-9A1C-FB7B92D014B5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{21AC0D01-6900-45FB-9195-925544EDFDA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21AC0D01-6900-45FB-9195-925544EDFDA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21AC0D01-6900-45FB-9195-925544EDFDA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21AC0D01-6900-45FB-9195-925544EDFDA6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B22DE09B-EA55-49E6-9A1C-FB7B92D014B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B22DE09B-EA55-49E6-9A1C-FB7B92D014B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B22DE09B-EA55-49E6-9A1C-FB7B92D014B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B22DE09B-EA55-49E6-9A1C-FB7B92D014B5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
