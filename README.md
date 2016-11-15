@@ -1,6 +1,9 @@
 # AHBottomNavigation-Xamarin
 AHBottomNavigation Control - Bottom Navigation for Xamarin.Android
 
+# Demo Images from (https://github.com/aurelhubert/ahbottomnavigation)
+<img src="https://raw.githubusercontent.com/aurelhubert/ahbottomnavigation/master/demo1.gif" width="208" height="368" /> <img src="https://raw.githubusercontent.com/aurelhubert/ahbottomnavigation/master/demo2.gif" width="208" height="368" /> <img src="https://raw.githubusercontent.com/aurelhubert/ahbottomnavigation/master/demo3.gif" width="208" height="368" /> <img src="https://raw.githubusercontent.com/aurelhubert/ahbottomnavigation/master/demo4.gif" width="208" height="368" />
+
 #Usage
 
 AXML
